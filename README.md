@@ -16,8 +16,8 @@ S Madden, M Cafarella, M Franklin, T Kraska. _VLDB 2024_ [[PDF](https://dl.acm.o
 RC Fernandez, AJ Elmore, MJ Franklin, S Krishnan, C Tan. _VLDB 2023_ [[PDF](https://www.vldb.org/pvldb/vol16/p3302-fernandez.pdf)]
 
 ## SYSTEMS
-**The Design of an LLM-powered Unstructured Analytics System (Aryn)**  
-E Anderson, J Fritz, A Lee, B Li, M Lindblad, H Lindeman, A Meyer, P Parmar, et al. [[PDF](https://arxiv.org/pdf/2409.00847)] [[CODE](https://github.com/aryn-ai/sycamore)]
+**A DECLARATIVE SYSTEM FOR OPTIMIZING AI WORKLOADS (PALIMPZEST)**  
+C Liu, M Russo, M Cafarella, L Cao, PB Chen, Z Chen, M Franklin, T Kraska, S Madden, G Vitagliano. _CIDR 2025_ [[PDF](https://arxiv.org/pdf/2405.14696)] [[CODE](https://github.com/mitdbg/palimpzest)]
 
 **DocETL: Agentic Query Rewriting and Evaluation for Complex Document Processing**  
 S Shankar, T Chambers, T Shah, AG Parameswaran, E Wu. [[PDF](https://arxiv.org/abs/2410.12189)] [[CODE](https://github.com/ucbepic/docetl)]
@@ -25,8 +25,11 @@ S Shankar, T Chambers, T Shah, AG Parameswaran, E Wu. [[PDF](https://arxiv.org/a
 **Semantic Operators: A Declarative Model for Rich, AI-based Data Processing (LOTUS)**  
 L Patel, S Jha, M Pan, H Gupta, P Asawa, C Guestrin†, M Zaharia. [[PDF](https://arxiv.org/abs/2407.11418)] [[CODE](https://github.com/lotus-data/lotus)]
 
-**A DECLARATIVE SYSTEM FOR OPTIMIZING AI WORKLOADS (PALIMPZEST)**  
-C Liu, M Russo, M Cafarella, L Cao, PB Chen, Z Chen, M Franklin, T Kraska, S Madden, G Vitagliano. _CIDR 2025_ [[PDF](https://arxiv.org/pdf/2405.14696)] [[CODE](https://github.com/mitdbg/palimpzest)]
+**AOP: Automated and Interactive LLM Pipeline Orchestration for Answering Complex Queries**   
+J Wang, G Li. _CIDR 2025_ [[PDF](https://vldb.org/cidrdb/papers/2025/p32-wang.pdf)]
+
+**The Design of an LLM-powered Unstructured Analytics System (Aryn)**  
+E Anderson, J Fritz, A Lee, B Li, M Lindblad, H Lindeman, A Meyer, P Parmar, et al. [[PDF](https://arxiv.org/pdf/2409.00847)] [[CODE](https://github.com/aryn-ai/sycamore)]
 
 **CAESURA: Language Models as Multi-Modal Query Planners**  
 M Urban, C Binnig. _CIDR 2024_ [[PDF](https://www.cidrdb.org/cidr2024/papers/p14-urban.pdf)]

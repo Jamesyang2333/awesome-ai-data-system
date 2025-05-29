@@ -6,7 +6,8 @@ AI-powered data processing systems incorporate AI/LLM capabilites into the query
 **A curated list of resources on AI-powered data processing systems**
 - [0. VISIONS](#visions)
 - [1. SYSTEMS](#systems)
-- [2. OPERATORS](#operators)
+- [2. QUERY OPTIMIZATION](#query-optimization)
+- [3. OPERATORS](#operators)
 
 ## VISIONS
 **Databases Unbound: Querying All of the World’s Bytes with AI**  
@@ -36,6 +37,10 @@ M Urban, C Binnig. _CIDR 2024_ [[PDF](https://www.cidrdb.org/cidr2024/papers/p14
 
 **Towards Accurate and Efficient Document Analytics with Large Language Models (ZenDB)**  
 Y Lin, M Hulsebos, R Ma, S Shankar, S Zeigham, AG Parameswaran, E Wu. [[PDF](https://arxiv.org/abs/2405.04674)]
+
+## QUERY OPTIMIZATION
+**Abacus: A Cost-Based Optimizer for Semantic Operator Systems**  
+M Russo, S Sudhir, G Vitagliano, C Liu, T Kraska, S Madden, M Cafarella. [[PDF](https://arxiv.org/pdf/2505.14661)]
 
 ## OPERATORS
 ### Map / Extract
